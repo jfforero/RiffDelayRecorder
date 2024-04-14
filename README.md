@@ -5,7 +5,7 @@ Consiste en un parche programado usando PlugData que permite grabar una secuenci
 ![Imagen de referencia](RiffRecorder.jpg)
 
 
-[Comprehensive Markdown Crash Course](https://www.youtube.com/watch?v=FEa2diI2qgA "Título alternativo")
+[Comprehensive Markdown Crash Course](https://youtu.be/7P64u9kcFVU "Ver video Prueba")
 
 
-https://youtu.be/7P64u9kcFVU
+
