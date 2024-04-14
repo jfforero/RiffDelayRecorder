@@ -5,7 +5,7 @@ Consiste en un parche programado usando PlugData que permite grabar una secuenci
 ![Imagen de referencia](RiffRecorder.jpg)
 
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/7P64u9kcFVU)
 
 
 https://youtu.be/7P64u9kcFVU
